@@ -1,0 +1,304 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\maysr\Desktop\CS305
+Ecounter
+Z1 w1647406627
+Z2 dC:\Users\maysr\Desktop\CS305
+Z3 8C:/Users/maysr/Desktop/CS305/task_one_C.vhd
+Z4 FC:/Users/maysr/Desktop/CS305/task_one_C.vhd
+l0
+L2
+VdRoPV;^[?njolLh_9UXKA0
+Z5 OV;C;10.1d;51
+32
+Z6 !s108 1647406682.237000
+Z7 !s90 -reportprogress|300|-work|work|C:/Users/maysr/Desktop/CS305/task_one_C.vhd|
+Z8 !s107 C:/Users/maysr/Desktop/CS305/task_one_C.vhd|
+Z9 o-work work -O0
+Z10 tExplicit 1
+!s100 NEcf9]>AToPkM5@9;N=]h2
+!i10b 1
+Abehaviour
+DEx4 work 7 counter 0 22 dRoPV;^[?njolLh_9UXKA0
+l8
+L7
+VddJ0UUb1M<?d<G`TFV=o]3
+R5
+32
+R6
+R7
+R8
+R9
+R10
+!s100 HzT@1GXSGQdbfUGoHjR1I0
+!i10b 1
+Eseqcounter
+Z11 w1649072476
+Z12 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z13 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z14 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z15 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z16 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+R2
+Z17 8C:/Users/maysr/Desktop/CS305/Lab2/lab2_task1.vhd
+Z18 FC:/Users/maysr/Desktop/CS305/Lab2/lab2_task1.vhd
+l0
+L7
+Vh[T:1adaDI3^`RMP?i?go3
+R5
+32
+Z19 !s108 1649072504.832000
+Z20 !s90 -reportprogress|300|-work|work|C:/Users/maysr/Desktop/CS305/Lab2/lab2_task1.vhd|
+Z21 !s107 C:/Users/maysr/Desktop/CS305/Lab2/lab2_task1.vhd|
+R9
+R10
+!s100 6Fe2df3OCazlmO[J1Qo=10
+!i10b 1
+Abehaviour
+R12
+R13
+R14
+R15
+R16
+DEx4 work 10 seqcounter 0 22 h[T:1adaDI3^`RMP?i?go3
+l14
+L13
+Vhaz?Yn?_9mN74Ack2A7B_0
+R5
+32
+R19
+R20
+R21
+R9
+R10
+!s100 Ye=gMF6@[adIjj5F?SU^T3
+!i10b 1
+Etest_counter
+Z22 w1647222767
+R2
+Z23 8C:/Users/maysr/Desktop/CS305/test_bench_counter.vhd
+Z24 FC:/Users/maysr/Desktop/CS305/test_bench_counter.vhd
+l0
+L3
+VDfT:FLChg@ETYXN^0SBzo0
+R5
+32
+Z25 !s108 1647406684.758000
+Z26 !s90 -reportprogress|300|-work|work|C:/Users/maysr/Desktop/CS305/test_bench_counter.vhd|
+Z27 !s107 C:/Users/maysr/Desktop/CS305/test_bench_counter.vhd|
+R9
+R10
+!s100 ^kL6>5FP8NH=P4UjZRUD70
+!i10b 1
+Atest
+DEx4 work 12 test_counter 0 22 DfT:FLChg@ETYXN^0SBzo0
+l14
+L6
+Vo7chf?QF@?eWF0UEHeFZA3
+R5
+32
+R25
+R26
+R27
+R9
+R10
+!s100 1nlTlN?3bO2`6RW4_cN@E0
+!i10b 1
+Etest_seqcounter
+Z28 w1649068865
+R12
+R13
+R14
+R15
+R16
+R2
+Z29 8C:/Users/maysr/Desktop/CS305/Lab2/lab2_testbench.vhd
+Z30 FC:/Users/maysr/Desktop/CS305/Lab2/lab2_testbench.vhd
+l0
+L7
+V?0D0g^^^9ZGa1WP_Ibf3C2
+!s100 OzhLI?O_U;:R<HK<m^aXB0
+R5
+32
+!i10b 1
+Z31 !s108 1649072504.915000
+Z32 !s90 -reportprogress|300|-work|work|C:/Users/maysr/Desktop/CS305/Lab2/lab2_testbench.vhd|
+Z33 !s107 C:/Users/maysr/Desktop/CS305/Lab2/lab2_testbench.vhd|
+R9
+R10
+Atest
+R12
+R13
+R14
+R15
+R16
+Z34 DEx4 work 15 test_seqcounter 0 22 ?0D0g^^^9ZGa1WP_Ibf3C2
+l21
+L10
+Z35 VKciXEJk:JeR<]`iZEWQ4k2
+Z36 !s100 0U`lnVf8khIGozKgmC6@[3
+R5
+32
+!i10b 1
+R31
+R32
+R33
+R9
+R10
+Etest_wgen1
+Z37 w1647473571
+R2
+Z38 8C:/Users/maysr/Desktop/CS305/test_wgen1.vhd
+Z39 FC:/Users/maysr/Desktop/CS305/test_wgen1.vhd
+l0
+L2
+VY=g<Lc6FT9]N8KHXYoZ]G2
+R5
+32
+Z40 !s108 1647473921.524000
+Z41 !s90 -reportprogress|300|-work|work|C:/Users/maysr/Desktop/CS305/test_wgen1.vhd|
+Z42 !s107 C:/Users/maysr/Desktop/CS305/test_wgen1.vhd|
+R9
+R10
+!s100 dal3DbhKLcWD`ifSS3fXL0
+!i10b 1
+Atest
+DEx4 work 10 test_wgen1 0 22 Y=g<Lc6FT9]N8KHXYoZ]G2
+l14
+L5
+V7ZYLU`m=e@mJ>K@?LAZ>R1
+R5
+32
+R40
+R41
+R42
+R9
+R10
+!s100 =QGMcYGoThACFz:a257k>3
+!i10b 1
+Etest_wgen2
+Z43 w1647490944
+R2
+Z44 8C:/Users/maysr/Desktop/CS305/test_wgen2.vhd
+Z45 FC:/Users/maysr/Desktop/CS305/test_wgen2.vhd
+l0
+L2
+VISA@Y]5MN8`H^n_oVQd9h0
+R5
+32
+Z46 !s108 1647491100.451000
+Z47 !s90 -reportprogress|300|-work|work|C:/Users/maysr/Desktop/CS305/test_wgen2.vhd|
+Z48 !s107 C:/Users/maysr/Desktop/CS305/test_wgen2.vhd|
+R9
+R10
+!s100 ]3D1TLAkjh@aB2>a2kH8;3
+!i10b 1
+Atest
+DEx4 work 10 test_wgen2 0 22 ISA@Y]5MN8`H^n_oVQd9h0
+l15
+L5
+VT_oNg9M8ZZ^<O2D>2Nn^Q0
+R5
+32
+R46
+R47
+R48
+R9
+R10
+!s100 NTTl6jJIh?O;[iziMVYC?2
+!i10b 1
+Ewgen
+Z49 w1647476477
+R2
+Z50 8C:/Users/maysr/Desktop/CS305/task_two_A.vhd
+Z51 FC:/Users/maysr/Desktop/CS305/task_two_A.vhd
+l0
+L2
+VdIgb^mHPEn_I7;h4jLPha2
+R5
+32
+Z52 !s108 1647476499.014000
+Z53 !s90 -reportprogress|300|-work|work|C:/Users/maysr/Desktop/CS305/task_two_A.vhd|
+Z54 !s107 C:/Users/maysr/Desktop/CS305/task_two_A.vhd|
+R9
+R10
+!s100 6LM]P_5<RQWIgg9]V>d;22
+!i10b 1
+Abehaviour
+DEx4 work 4 wgen 0 22 dIgb^mHPEn_I7;h4jLPha2
+l9
+L7
+VdLmQKM@cZaafUE1RI`Tg_2
+R5
+32
+R52
+R53
+R54
+R9
+R10
+!s100 =fZ1Th8Sa@^BSkBe0P1N32
+!i10b 1
+Ewgen1
+Z55 w1647490294
+R2
+Z56 8C:/Users/maysr/Desktop/CS305/task_two_B.vhd
+Z57 FC:/Users/maysr/Desktop/CS305/task_two_B.vhd
+l0
+L2
+VV4b;hgIKAXXkk::3UOSn`1
+R5
+32
+Z58 !s108 1647490333.478000
+Z59 !s90 -reportprogress|300|-work|work|C:/Users/maysr/Desktop/CS305/task_two_B.vhd|
+Z60 !s107 C:/Users/maysr/Desktop/CS305/task_two_B.vhd|
+R9
+R10
+!s100 2Pj2Y6e<?X]nMo@<b@PeI2
+!i10b 1
+Abehaviour
+DEx4 work 5 wgen1 0 22 V4b;hgIKAXXkk::3UOSn`1
+l9
+L7
+VTP7^mz5]]fP:Z@@db4k@c1
+R5
+32
+R58
+R59
+R60
+R9
+R10
+!s100 TC=RzE2Y5jc9NMNKA@S6H0
+!i10b 1
+Ewgen2
+Z61 w1647491317
+R2
+R56
+R57
+l0
+L2
+VbU`I_]bK`K<ik^Y`OC?I<0
+R5
+32
+Z62 !s108 1647491354.058000
+R59
+R60
+R9
+R10
+!s100 Qj8^5jZj7RKcC3YKAnZNU2
+!i10b 1
+Abehaviour
+DEx4 work 5 wgen2 0 22 bU`I_]bK`K<ik^Y`OC?I<0
+l10
+L8
+VjdMee<C4L=:mlT>U>QSSI3
+R5
+32
+R62
+R59
+R60
+R9
+R10
+!s100 E?ne4De1>>GaMbzihaeIW2
+!i10b 1

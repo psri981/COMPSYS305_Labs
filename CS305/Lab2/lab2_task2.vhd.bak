@@ -1,0 +1,47 @@
+-- synthesizable up/down counter
+-- Lab 2 Task 2
+
+architecture behaviour of BCD_counter is
+  signal next_q : integer;
+  signal q      : integer;
+begin
+
+  pReg : process
+  begin  -- process pReg
+    wait until clk'event and clk = '1';
+    if init = '1' then
+      q <= 0;
+    else
+      q <= next_q;
+    end if;
+  end process pReg;
+
+  pCount : process (direction, enable, q)
+  begin  -- process pCount
+    next_q <= q;
+
+    if enable = '1' then
+      if direction = '1' then
+        next_q <= q + 1;
+
+        if q = 9 then
+          next_q <= 0;
+        end if;
+
+      else
+        next_q <= q - 1;
+
+        if q = 0 then
+          next_q <= 9;
+        end if;
+
+      end if;
+    end if;
+  end process pCount;
+
+  q_out <= q;
+end architecture behaviour;
+
+
+
+
